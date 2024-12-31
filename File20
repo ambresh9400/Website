@@ -1,0 +1,10 @@
+echo "<!DOCTYPE html>
+<html>
+<head>
+    <title>Ambzclouds.xyz</title>
+</head>
+<body>
+    <h1>Welcome to Ambzclouds.xyz!</h1>
+    <p>This is a simple website hosted on an EC2 instance.</p>
+</body>
+</html>" | sudo tee /var/www/html/index.html
